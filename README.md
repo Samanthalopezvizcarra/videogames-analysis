@@ -47,8 +47,8 @@ El conjunto de datos proviene de `games.csv`, el cual contiene información hist
 - Las clasificaciones ESRB pueden influir en las ventas, especialmente en América del Norte.
 
 ## 🚀 Cómo ejecutar
-Clona el repositorio: git clone url
-Crea un enviroment: python -m venv venv
-Activa el enviroment: venv\Scripts\activate
-Instala los requerimientos: pip install -r requirements.txt
-Corre el notebook del análisis: videogames_analysis.ipynb
+- Clona el repositorio: git clone url
+- Crea un enviroment: python -m venv venv
+- Activa el enviroment: venv\Scripts\activate
+- Instala los requerimientos: pip install -r requirements.txt
+- Corre el notebook del análisis: videogames_analysis.ipynb
